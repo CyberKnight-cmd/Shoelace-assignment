@@ -61,22 +61,39 @@ The **Shoelace Assignments** repository is perfect for students and programming 
 
 Each assignment contains a PDF file that states the problem in a more detailed manner. Make sure to refer to it in case of any confusion.
 
+
 ## Getting Started
 
 To get started with the assignments, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/CyberKnight-cmd/Python-Weekly-Assignments.git
+    git clone https://github.com/CyberKnight-cmd/Shoelace-assignment.git
     ```
 2. **Navigate to the desired week's folder**:
+    For Python:
     ```bash
-    cd Python-Weekly-Assignments/Assignment1
+    cd Shoelace-assignment/Python/Assignment-1
+    ```
+    For C:
+    ```bash
+    cd Shoelace-assignment/C/Assignment-1
     ```
 3. **Run the Python programs**:
     ```bash
     python Prog1.py
     ```
+
+4. **Compile and run the C programs**:
+    First, compile the C program:
+    ```bash
+    gcc Prog1.c -o Prog1
+    ```
+    Then, run the compiled program:
+    ```bash
+    ./Prog1
+    ```
+
 
 Ensure you have Python installed on your machine. You can download it from [here](https://www.python.org/downloads/).
 
