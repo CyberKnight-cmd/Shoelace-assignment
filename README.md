@@ -56,3 +56,49 @@ The **Shoelace Assignments** repository is perfect for students and programming 
 13. Calculate income tax based on income brackets [(Python)](./Python/Assignment-2/Prog13.py) || [C](./C/Assignment-2/Prog13.c)  
 14. Calculate Y based on X using conditions (6, 7, 12, or otherwise) [(Python)](./Python/Assignment-2/Prog14.py) || [C](./C/Assignment-2/Prog14.c)  
 15. Perform arithmetic operations on Y and Z based on the value of X (0, 1, 2, or 3) [(Python)](./Python/Assignment-2/Prog15.py) || [C](./C/Assignment-2/Prog15.c)
+
+
+
+Each assignment contains a PDF file that states the problem in a more detailed manner. Make sure to refer to it in case of any confusion.
+
+## Getting Started
+
+To get started with the assignments, follow these steps:
+
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/CyberKnight-cmd/Python-Weekly-Assignments.git
+    ```
+2. **Navigate to the desired week's folder**:
+    ```bash
+    cd Python-Weekly-Assignments/Assignment1
+    ```
+3. **Run the Python programs**:
+    ```bash
+    python Prog1.py
+    ```
+
+Ensure you have Python installed on your machine. You can download it from [here](https://www.python.org/downloads/).
+
+## Contributing
+
+Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request. Here�s how you can contribute:
+
+1. **Fork the repository**.
+2. **Create a new branch**:
+    ```bash
+    git checkout -b feature-name
+    ```
+3. **Make your changes and commit them**:
+    ```bash
+    git commit -m "Description of changes"
+    ```
+4. **Push to the branch**:
+    ```bash
+    git push origin feature-name
+    ```
+5. **Create a new pull request**.
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information
