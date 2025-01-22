@@ -14,7 +14,7 @@ Welcome to the **Shoelace Assignments** repository! This repository features a d
 
 The **Shoelace Assignments** repository is perfect for students and programming enthusiasts looking to practice coding in Python and C. Each assignment includes challenges ranging from basic programming exercises to more advanced computational problems, providing a well-rounded learning experience.
 
-### [Access the merged list of questions here.]
+### Access the merged list of questions here 👇👇
 1. [Assignment-1](./Questions/assignment-1.pdf)
 2. [Assignment-2](./Questions/assignment-2.pdf)
 
