@@ -17,6 +17,7 @@ The **Shoelace Assignments** repository is perfect for students and programming 
 ### Access the merged list of questions here 👇👇
 1. [Assignment-1](./Questions/assignment-1.pdf)
 2. [Assignment-2](./Questions/assignment-2.pdf)
+3. [Assignment-3](./Questions/assignment-3.pdf)
 
 ## Assignments
 
