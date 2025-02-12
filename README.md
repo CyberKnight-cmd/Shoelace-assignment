@@ -60,6 +60,140 @@ The **Shoelace Assignments** repository is perfect for students and programming 
 15. Perform arithmetic operations on Y and Z based on the value of X (0, 1, 2, or 3) [(Python)](./Python/Assignment-2/Prog15.py) || [C](./C/Assignment-2/Prog15.c)
 
 
+### Assignment - 3 (Pattern Printing and Character Manipulation)
+
+1. **Print the following pattern up to N Lines:**
+    ```
+    ****
+    ****
+    ****
+    ****
+    ```
+    [(Python)](./Python/Assignment-3/Prog1.py) || [C](./C/Assignment-3/Prog1.c)
+
+2. **Print the following pattern up to N Lines:**
+    ```
+    *
+    **
+    ***
+    ****
+    ```
+    [(Python)](./Python/Assignment-3/Prog2.py) || [C](./C/Assignment-3/Prog2.c)
+
+3. **Print the following pattern up to N Lines:**
+    ```
+    ****
+    ***
+    **
+    *
+    ```
+    [(Python)](./Python/Assignment-3/Prog3.py) || [C](./C/Assignment-3/Prog3.c)
+
+4. **Print the following pattern up to N Lines:**
+    ```
+    *
+    * *
+    * * *
+    * * * *
+    ``` 
+    [(Python)](./Python/Assignment-3/Prog4.py) || [C](./C/Assignment-3/Prog4.c)
+
+5. **Print the following pattern up to N Lines:**
+    ```
+    *
+    ***
+    *****
+    *******
+    ```
+    [(Python)](./Python/Assignment-3/Prog5.py) || [C](./C/Assignment-3/Prog5.c)
+
+6. **Print the following pattern up to N Lines:**
+    ```
+    *******
+    *****
+    ***
+    *
+    ```
+    [(Python)](./Python/Assignment-3/Prog6.py) || [C](./C/Assignment-3/Prog6.c)
+
+7. **Write a Program to print the following pattern:**
+    ```
+    A
+    BB
+    CCC
+    DDDD
+    ```
+    [(Python)](./Python/Assignment-3/Prog7.py) || [C](./C/Assignment-3/Prog7.c)
+
+8. **Write a Program to print the following pattern:**
+    ```
+    ABCDE
+    CDEF
+    EFG
+    GH
+    I
+    ```
+    [(Python)](./Python/Assignment-3/Prog8.py) || [C](./C/Assignment-3/Prog8.c)
+
+9. **Write a Program to print the following pattern:**
+    ```
+    A
+    BC
+    CDE
+    DEFG
+    EFGHI
+    ```
+    [(Python)](./Python/Assignment-3/Prog9.py) || [C](./C/Assignment-3/Prog9.c)
+
+10. **Write a Program to print the following pattern:**
+    ```
+    A
+    AC
+    ACE
+    ACEG
+    ACEGI
+    ```
+    [(Python)](./Python/Assignment-3/Prog10.py) || [C](./C/Assignment-3/Prog10.c)
+
+11. **Write a Program to print the following pattern:**
+    ```
+    1
+    12
+    123
+    1234
+    12345
+    ```
+    for N=5  
+    [(Python)](./Python/Assignment-3/Prog11.py) || [C](./C/Assignment-3/Prog11.c)
+
+12. **Print the following pattern up to N Lines:**
+    ```
+    10001
+    01010
+    00100
+    01010
+    10001
+    ```
+    [(Python)](./Python/Assignment-3/Prog12.py) || [C](./C/Assignment-3/Prog12.c)
+
+13. **Print the following pattern up to N Lines:**
+    ```
+       1
+      121
+     12321
+    1234321
+    ```  
+    [(Python)](./Python/Assignment-3/Prog13.py) || [C](./C/Assignment-3/Prog13.c)
+
+14. **Print the following pattern up to N Lines (Pascal's Triangle):**
+    ```
+        1
+      1 1
+     1 2 1
+    1 3 3 1
+   1 4 6 4 1
+    ```
+    [(Python)](./Python/Assignment-3/Prog14.py) || [C](./C/Assignment-3/Prog14.c)
 
 
 
@@ -119,4 +253,5 @@ Contributions are welcome! If you have suggestions or improvements, please open 
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information
+This repository is licensed under the MIT License. See the [LICENSE](./LICENSE/License.txt) file for more information
+
