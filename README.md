@@ -91,18 +91,18 @@ The **Shoelace Assignments** repository is perfect for students and programming 
 
 4. **Print the following pattern up to N Lines:**
     ```
-    *
-    * *
-    * * *
+       *
+      * *
+     * * *
     * * * *
     ``` 
     [(Python)](./Python/Assignment-3/Prog4.py) || [C](./C/Assignment-3/Prog4.c)
 
 5. **Print the following pattern up to N Lines:**
     ```
-    *
-    ***
-    *****
+       *
+      ***
+     *****
     *******
     ```
     [(Python)](./Python/Assignment-3/Prog5.py) || [C](./C/Assignment-3/Prog5.c)
@@ -110,9 +110,9 @@ The **Shoelace Assignments** repository is perfect for students and programming 
 6. **Print the following pattern up to N Lines:**
     ```
     *******
-    *****
-    ***
-    *
+     *****
+      ***
+       *
     ```
     [(Python)](./Python/Assignment-3/Prog6.py) || [C](./C/Assignment-3/Prog6.c)
 
