@@ -191,7 +191,7 @@ The **Shoelace Assignments** repository is perfect for students and programming 
       1 1
      1 2 1
     1 3 3 1
-   1 4 6 4 1
+    1 4 6 4 1
     ```
     [(Python)](./Python/Assignment-3/Prog14.py) || [C](./C/Assignment-3/Prog14.c)
 
