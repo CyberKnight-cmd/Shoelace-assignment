@@ -6,6 +6,9 @@ int main(){
     scanf("%d", &element);
     
     for(int i = 0; i < element; i++){
+        for(int j = 0;j<i;j++)
+            printf(" ");
+
         for(int j = 0; j < element-i; j++)
             printf("*");
         printf("\n");
