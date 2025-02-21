@@ -18,6 +18,7 @@ The **Shoelace Assignments** repository is perfect for students and programming 
 1. [Assignment-1](./Questions/assignment-1.pdf)
 2. [Assignment-2](./Questions/assignment-2.pdf)
 3. [Assignment-3](./Questions/assignment-3.pdf)
+3. [Assignment-3](./Questions/assignment-4.pdf)
 
 ## Assignments
 
@@ -197,7 +198,23 @@ The **Shoelace Assignments** repository is perfect for students and programming 
     [(Python)](./Python/Assignment-3/Prog14.py) || [(C)](./C/Assignment-3/Prog14.c)
 
 
+### **Assignment - 3 (Basic Array and Matrix Problems)**  
 
+1. Declare, read, and display values in a **1-D array** [(Python)](./Python/Assignment-3/Prog1.py) || [(C)](./C/Assignment-3/Prog1.c)  
+2. Declare, read, and display values in a **2-D array** [(Python)](./Python/Assignment-3/Prog2.py) || [(C)](./C/Assignment-3/Prog2.c)  
+3. Copy elements from one array to another [(Python)](./Python/Assignment-3/Prog3.py) || [(C)](./C/Assignment-3/Prog3.c)  
+4. Count the frequency of each element in an array [(Python)](./Python/Assignment-3/Prog4.py) || [(C)](./C/Assignment-3/Prog4.c)  
+5. Perform **addition and multiplication** on **3×3 matrices** [(Python)](./Python/Assignment-3/Prog5.py) || [(C)](./C/Assignment-3/Prog5.c)  
+6. Find the **largest and smallest** element in an array [(Python)](./Python/Assignment-3/Prog6.py) || [(C)](./C/Assignment-3/Prog6.c)  
+7. Sort an array in **ascending order** [(Python)](./Python/Assignment-3/Prog7.py) || [(C)](./C/Assignment-3/Prog7.c)  
+8. Sort an array in **descending order** [(Python)](./Python/Assignment-3/Prog8.py) || [(C)](./C/Assignment-3/Prog8.c)  
+9. Reverse an array [(Python)](./Python/Assignment-3/Prog9.py) || [(C)](./C/Assignment-3/Prog9.c)  
+10. Split an array into two parts [(Python)](./Python/Assignment-3/Prog10.py) || [(C)](./C/Assignment-3/Prog10.c)  
+11. Merge two arrays into a single array [(Python)](./Python/Assignment-3/Prog11.py) || [(C)](./C/Assignment-3/Prog11.c)  
+12. Check if an element is present in a **1-D array** [(Python)](./Python/Assignment-3/Prog12.py) || [(C)](./C/Assignment-3/Prog12.c)  
+13. Count the number of **even and odd position** elements in a **1-D array** [(Python)](./Python/Assignment-3/Prog13.py) || [(C)](./C/Assignment-3/Prog13.c)  
+
+This keeps the formatting consistent with your previous assignments. 🚀
 ## Getting Started
 
 To get started with the assignments, follow these steps:
