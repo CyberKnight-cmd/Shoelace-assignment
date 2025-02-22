@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "*.java": "java",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "limits": "c",
+        "math.h": "c"
     }
 }
