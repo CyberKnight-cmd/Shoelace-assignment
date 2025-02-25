@@ -198,7 +198,7 @@ The **Shoelace Assignments** repository is perfect for students and programming 
     [(Python)](./Python/Assignment-3/Prog14.py) || [(C)](./C/Assignment-3/Prog14.c)
 
 
-### **Assignment - 3 (Basic Array and Matrix Problems)**  
+### **Assignment - 4 (Basic Array and Matrix Problems)**  
 
 1. Declare, read, and display values in a **1-D array** [(Python)](./Python/Assignment-4/Prog1.py) || [(C)](./C/Assignment-4/Prog1.c)  
 2. Declare, read, and display values in a **2-D array** [(Python)](./Python/Assignment-4/Prog2.py) || [(C)](./C/Assignment-4/Prog2.c)  
@@ -213,6 +213,7 @@ The **Shoelace Assignments** repository is perfect for students and programming 
 11. Merge two arrays into a single array [(Python)](./Python/Assignment-4/Prog11.py) || [(C)](./C/Assignment-4/Prog11.c)  
 12. Check if an element is present in a **1-D array** [(Python)](./Python/Assignment-4/Prog12.py) || [(C)](./C/Assignment-4/Prog12.c)  
 13. Count the number of **even and odd position** elements in a **1-D array** [(Python)](./Python/Assignment-4/Prog13.py) || [(C)](./C/Assignment-4/Prog13.c)  
+
 
 This keeps the formatting consistent with your previous assignments. 🚀
 ## Getting Started
