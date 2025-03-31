@@ -1,0 +1,5 @@
+Maths 78
+Science 52
+Computer 85
+Hindi 89
+English 95
