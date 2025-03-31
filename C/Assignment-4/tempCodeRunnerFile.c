@@ -1,1 +1,1 @@
-max
+printf("%d", arr[length-1]);

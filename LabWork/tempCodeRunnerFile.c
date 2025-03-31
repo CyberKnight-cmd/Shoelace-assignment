@@ -1,0 +1,1 @@
+num%10 + sumOfDigits(num/10);
