@@ -1,18 +1,18 @@
 #include<stdio.h>
 #include<string.h>
 int main(){
-    char name[30];
-    printf("Enter your name : ");
-    fgets(name,sizeof(name), stdin);
+    char str[30];
+    printf("Enter your str : ");
+    fgets(str,sizeof(str), stdin);
 
-    int left = 0, right = strlen(name) - 2;
+    int left = 0, right = strlen(str) - 2;
     char temp;
     while (left<right)
     {
-        temp = name[left];
-        name[left++] = name[right];
-        name[right--] = temp;
+        temp = str[left];
+        str[left++] = str[right];
+        str[right--] = temp;
     }
 
-    printf("Reversed string : %s", name);
+    printf("Reversed string : %s", str);
 }

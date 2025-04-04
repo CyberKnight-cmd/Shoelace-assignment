@@ -16,7 +16,7 @@ void generateFibonacci(int lower, int upper)
 
 int main(){
     int lower = 0, upper = 0;
-    printf("Enter the upper & lower range : ");
+    printf("Enter the lower & upper range : ");
     scanf("%d %d", &lower, &upper);
     
     generateFibonacci(lower, upper);

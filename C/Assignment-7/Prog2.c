@@ -6,8 +6,7 @@ float power(int X, int Y){
         return X*power(X, Y-1);
     if (Y<0)
         return (1/X)*power(X,Y+1);
-    else
-        return 1;
+    return 1;
 }
 int main(){
     int x, y;
